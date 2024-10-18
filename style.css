@@ -811,7 +811,7 @@ color: #fff;
 /* for fav.html */
 .content {
     padding: 80px 20px; /* Adjust padding to prevent overlap */
-    text-align: center;
+/*     text-align: center; */
    
 }
 
